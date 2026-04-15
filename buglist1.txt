@@ -1,1 +1,3 @@
 this file contains a list of bugs that need to be fixed in the software.
+
+1. Bug #101: Application crashes when user clicks on the "Save" button without entering any data.
