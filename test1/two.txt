@@ -1,0 +1,1 @@
+Testing for the git add and commit commands.
